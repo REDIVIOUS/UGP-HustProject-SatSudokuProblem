@@ -1,2 +1,2 @@
-# Curriculum-design
-Hust C语言/数据机构课设。SAT—SUDOKU问题。
+# UGP-HustLab-SatSudokuProblem
+[Undergraduate project in hust] The course design of C language and data structure. SAT-SUDOKU problem.
